@@ -1,4 +1,5 @@
 tox
+six
 coverage
 Sphinx
 zest.releaser[recommended]
